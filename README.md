@@ -1,1 +1,1 @@
-# vercer-redirect-healthpower
+Upload this to vercel using Git for setup !
